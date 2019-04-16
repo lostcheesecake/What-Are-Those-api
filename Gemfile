@@ -5,6 +5,8 @@ ruby '2.5.0'
 
 gem 'active_model_serializers', '~> 0.10.6'
 gem 'bcrypt', '~> 3.1.11'
+gem 'carrierwave', '~> 0.10.0'
+gem 'mini_magick', '~> 4.3'
 gem 'pg', '~> 0.21'
 gem 'puma', '~> 3.11.2'
 gem 'rack-cors', '~> 1.0.2', require: 'rack/cors'
