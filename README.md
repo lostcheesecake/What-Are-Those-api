@@ -1,11 +1,11 @@
-#SnapBack to Reality
+#What Are Those
 
 # BACK END
 # Capstone Project
 
 Frontend repo:
 Website:
-Heroku Backend: https://snapback-to-reality.herokuapp.com/
+Heroku Backend: https://what-are-those-api.herokuapp.com/
 
 ## Project Idea
 
