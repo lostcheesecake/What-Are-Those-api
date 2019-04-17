@@ -1,4 +1,4 @@
-<% project_name = 'SnapBack-to-Reality' %>
+<% project_name = 'What-Are-Those' %>
 
 default: &default
   adapter: postgresql
