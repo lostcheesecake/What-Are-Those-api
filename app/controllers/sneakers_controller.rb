@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 class SneakersController < OpenReadController
-  before_action :set_sneaker, only: %i[show update destroy]
+  before_action :set_sneaker, only: %i[update destroy]
 
   # GET /sneakers
   def index
@@ -12,6 +12,7 @@ class SneakersController < OpenReadController
 
   # GET /sneakers/1
   def show
+    @sneaker = Sneaker.find(params[:id])
     render json: @sneaker
   end
 

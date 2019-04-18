@@ -2,7 +2,6 @@
 
 curl "http://localhost:4741/sneakers" \
   --include \
-  --request DELETE \
-  --header "Authorization: Token token=${TOKEN}"
+  --request GET \
 
 echo
