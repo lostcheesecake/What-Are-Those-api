@@ -74,6 +74,7 @@ Please create a wireframe of your planned front end.
 
 ```md
 Wireframe link: https://imgur.com/G8nrLsR
+APP SCREENSHOT: https://imgur.com/8V8c3c5
 
 ```
 
