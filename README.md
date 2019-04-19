@@ -23,6 +23,11 @@ sneakers that they created, along with sneakers created by other users.
 - `bin/rails server` to start backend server
 - `npm run server` to start the frontend server
 
+for the backend:
+- `bundle install`
+- `bin/rails db:create`
+- `bin/rails db:migrate`
+- `bin/rails server`
 
 ## Write between 3-5 user stories
 
