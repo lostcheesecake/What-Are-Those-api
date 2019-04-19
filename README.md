@@ -3,6 +3,7 @@
 # BACK END
 # Capstone Project
 
+![screenshot](https://i.imgur.com/8V8c3c5.png)
 Frontend repo: https://github.com/lostcheesecake/What-Are-Those-client
 Website: https://lostcheesecake.github.io/What-Are-Those-client/#/
 Heroku Backend: https://what-are-those-api.herokuapp.com/
@@ -80,7 +81,6 @@ What routes will you need to make the proper request to your API?
 ## Wireframes
 
 Wireframe link: https://imgur.com/G8nrLsR
-![screenshot](https://i.imgur.com/8V8c3c5.png)
 
 
 ## Problems I had
